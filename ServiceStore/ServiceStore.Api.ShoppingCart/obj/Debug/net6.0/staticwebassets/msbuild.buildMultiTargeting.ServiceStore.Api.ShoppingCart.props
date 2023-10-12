@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ServiceStore.Api.ShoppingCart.props" />
+</Project>

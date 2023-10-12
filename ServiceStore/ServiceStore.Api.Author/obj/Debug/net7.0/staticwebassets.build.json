@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CDfMUEIcX+cW8LEWvXNQM01veYPfh4d+3i4EShTe+UY=",
+  "Source": "ServiceStore.Api.Author",
+  "BasePath": "_content/ServiceStore.Api.Author",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

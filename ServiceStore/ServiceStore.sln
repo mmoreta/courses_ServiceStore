@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStore.Api.Author", "ServiceStore.Api.Author\ServiceStore.Api.Author.csproj", "{4C86C00B-0EE6-44BE-B1F4-25C609E63384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStore.Api.Book", "ServiceStore.Api.Book\ServiceStore.Api.Book.csproj", "{2230DF34-EB5C-425B-99C4-89450727F789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStore.Api.ShoppingCart", "ServiceStore.Api.ShoppingCart\ServiceStore.Api.ShoppingCart.csproj", "{71262EEA-FCD7-426F-8638-A81A4C346AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C86C00B-0EE6-44BE-B1F4-25C609E63384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C86C00B-0EE6-44BE-B1F4-25C609E63384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C86C00B-0EE6-44BE-B1F4-25C609E63384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C86C00B-0EE6-44BE-B1F4-25C609E63384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2230DF34-EB5C-425B-99C4-89450727F789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2230DF34-EB5C-425B-99C4-89450727F789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2230DF34-EB5C-425B-99C4-89450727F789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2230DF34-EB5C-425B-99C4-89450727F789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71262EEA-FCD7-426F-8638-A81A4C346AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71262EEA-FCD7-426F-8638-A81A4C346AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71262EEA-FCD7-426F-8638-A81A4C346AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71262EEA-FCD7-426F-8638-A81A4C346AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

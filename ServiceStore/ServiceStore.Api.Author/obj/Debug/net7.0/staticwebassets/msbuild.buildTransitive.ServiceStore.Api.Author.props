@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ServiceStore.Api.Author.props" />
+</Project>

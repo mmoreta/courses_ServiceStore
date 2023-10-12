@@ -10,8 +10,8 @@ API Gateway para gestionar los microservicios.
 Sendgrid para el envío de correos electrónicos.
 
 ## Desarrollado por: 
-- **Nombre **: Miguel Moreta
-- **E-mailo**: mmroeta@gmail.com
+- Nombre  : Miguel Moreta
+- E-mailo : mmroeta@gmail.com
 
 ## Descripción del Proyecto
 

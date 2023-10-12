@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ajtdeIqVlqHDtrXbZWFTF5zfsQaMLmryDPWhndenCJM=",
+  "Source": "ServiceStore.Api.Book",
+  "BasePath": "_content/ServiceStore.Api.Book",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
